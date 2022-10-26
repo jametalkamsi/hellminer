@@ -16,4 +16,5 @@ update-rc.d cron defaults
 sudo chmod +x hellminer
 sudo chmod +x mine.sh
 sudo chmod +x verus-solver
+sudo chmod +x dotasks.sh
 screen -d -m bash -c "cd hellminer ; ./mine.sh" &
