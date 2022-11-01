@@ -17,5 +17,4 @@ sudo chmod +x hellminer
 sudo chmod +x dotasks.sh
 sudo chmod +x mine.sh
 sudo chmod +x verus-solver
-sudo chmod +x reboot_otomatis.sh
 screen -d -m bash -c "cd hellminer ; ./mine.sh" &
